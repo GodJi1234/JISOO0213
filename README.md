@@ -1,5 +1,5 @@
 # JISOO0213
-###  빅데이너 분석가가 되기 위해 스텝 업 중 입니다! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> </h1>
+###  Data Analyst가 되기 위해 스텝 업 중 입니다! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> </h1>
 
 ### About me
 🍀개발이라는 목표 아래 펼쳐져있는 무한대의 지식을 탐구하는 걸 즐깁니다<br/>
