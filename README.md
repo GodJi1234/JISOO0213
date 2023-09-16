@@ -12,7 +12,7 @@
 
 
 ### Interest 
-Big Data Engineer
+Data Analyst, Big Data, AI
 
 <br>
 </br>
