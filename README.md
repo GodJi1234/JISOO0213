@@ -1,11 +1,11 @@
-# JISOO0213
+# GodJi1234
 ###  Data Analyst가 되기 위해 스텝 업 중 입니다! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> </h1>
 
 ### About me
-🍀개발이라는 목표 아래 펼쳐져있는 무한대의 지식을 탐구하는 걸 즐깁니다<br/>
-💡 NOW I’m currently learning Basic Programming skills like JAVA, PYTHON, JavaScript.
+🍀 빅데이터에서 의미있는 insight를 도출하는 Data Analyst를 꿈꾸고 있습니다 <br/>
+💡 NOW I’m currently learning Basic Programming skills like PYTHON, SQL
    And also learning DB like Oracle, MySQL, h2 database. <br/>
-📫 How to contact me : sji05457@gmail.com </p>
+
 <br>
 </br>
 
